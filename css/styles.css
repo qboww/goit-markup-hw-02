@@ -10,7 +10,7 @@ body{
     font-weight: 700;
     font-size: 18px;
     line-height: 1.17;
-    letter-spacing: 0.003em;
+    letter-spacing: 0.03em;
     text-transform: uppercase;
     color: #4d5ae5;
 }
@@ -19,7 +19,7 @@ body{
     color: #2e2f42;
 }
 
-.studio-link{
+.nav-link{
     font-weight: 500;
     font-size: 16px;
     line-height: 1.5;
@@ -27,7 +27,7 @@ body{
     color: #2e2f42;
 }
 
-.studio-link:hover, .studio-link:focus{
+.nav-link:hover, .nav-link:focus{
     color: #404bbf;
 }
 
@@ -35,13 +35,13 @@ body{
     font-style: normal;
 }
 
-.email-text{
+.address-link{
     font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.02em;
     color: #434455;
 }
 
-.email-text:hover, .email-text:focus{
+.address-link:hover, .address-link:focus{
     color: #404bbf;
 }
