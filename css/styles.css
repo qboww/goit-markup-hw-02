@@ -72,3 +72,18 @@ body{
 .order-button:hover, .order-button:focus{
     background-color: #404BBF;
 }
+
+.content-header{
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 1.2;
+    letter-spacing: 0.02em;
+    color: #2e2f42;
+}
+
+.strategy-header{
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    color: #434455;
+}
