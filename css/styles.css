@@ -1,3 +1,4 @@
+/* Global selectors */
 body {
     font-family: "Roboto", sans-serif;
     color: #434455;
@@ -5,6 +6,8 @@ body {
     font-size: 16px;
 }
 
+
+/* Header */
 .logo {
     font-family: "Raleway", sans-serif;
     font-weight: 700;
@@ -48,6 +51,8 @@ body {
     color: #404bbf;
 }
 
+
+/* Section 1: Hero  */
 .hero {
     background-color: #2e2f42;
 }
@@ -76,6 +81,8 @@ body {
     background-color: #404BBF;
 }
 
+
+/* Section 2: Content */
 .content-header {
     font-weight: 500;
     font-size: 20px;
@@ -91,20 +98,8 @@ body {
     color: #434455;
 }
 
-.footer {
-    background-color: #2e2f42;
-}
 
-.studio-footer-text {
-    color: #f4f4fd;
-}
-
-.footer-motto {
-    line-height: 1.5;
-    color: #F4F4FD;
-    letter-spacing: 0.02em;
-}
-
+/* Section 3: Team */
 .team-section{
 background-color: #F4F4FD;
 }
@@ -137,7 +132,7 @@ background-color: #F4F4FD;
     background-color: #FFFFFF;
 }
 
-/* -------------SECTION/4--------------- */
+/* Section 4: Portfolio */
 
 .portfolio-header{
     font-size: 36px;
@@ -161,4 +156,20 @@ background-color: #F4F4FD;
     line-height: 1.5;
     letter-spacing: 0.02em;
     color: #434455;
+}
+
+
+/* Footer */
+.footer {
+    background-color: #2e2f42;
+}
+
+.studio-footer-text {
+    color: #f4f4fd;
+}
+
+.footer-motto {
+    line-height: 1.5;
+    color: #F4F4FD;
+    letter-spacing: 0.02em;
 }
