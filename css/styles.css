@@ -46,7 +46,7 @@ body{
     color: #404bbf;
 }
 
-.hero{
+.hero-section{
     background-color: #2e2f42;
 }
 
@@ -86,4 +86,36 @@ body{
     line-height: 1.5;
     letter-spacing: 0.02em;
     color: 434455;
+}
+
+.team-section{
+    background-color: #F4F4FD;
+}
+
+.team-header{
+    font-size: 36px;
+    line-height: 1.1;
+    text-align: center;
+    letter-spacing: 0.02em;
+    text-transform: capitalize;
+    color: #2e2f42;
+}
+
+.team-list-item{
+    background-color: #FFFFFF;
+}
+
+.worker-header{
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 1.2;
+    letter-spacing: 0.02em;
+    color: #2e2f42;
+}
+
+.worker-paragraph{
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    color: #434455;
 }
