@@ -105,7 +105,7 @@ body{
     background-color: #FFFFFF;
 }
 
-.worker-header{
+.dev-name{
     font-weight: 500;
     font-size: 20px;
     line-height: 1.2;
@@ -113,7 +113,7 @@ body{
     color: #2f422e;
 }
 
-.worker-paragraph{
+.dev-spec{
     font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.02em;
