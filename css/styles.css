@@ -105,11 +105,11 @@ body {
     letter-spacing: 0.02em;
 }
 
-.team{
+.team-section {
     background-color: #F4F4FD;
 }
 
-.team-header{
+.team-header {
     font-size: 36px;
     line-height: 1.11;
     text-align: center;
@@ -118,11 +118,11 @@ body {
     color: #2e2f42;
 }
 
-.team-list-item{
+.team-list-item {
     background-color: #FFFFFF;
 }
 
-.dev-header{
+.worker-header {
     font-weight: 500;
     font-size: 20px;
     line-height: 1.2;
@@ -130,7 +130,7 @@ body {
     color: #2e2f42;
 }
 
-.dev-paragraph{
+.worker-paragraph {
     font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.02em;
