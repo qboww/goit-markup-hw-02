@@ -105,13 +105,17 @@ body {
     letter-spacing: 0.02em;
 }
 
+.team-section{
+background-color: #F4F4FD;
+}
+
 .team-title {
     font-size: 36px;
     line-height: 1.11;
     letter-spacing: 0.02em;
     text-transform: capitalize;
     text-align: center;
-    color: #F4F4FD;
+    color: #2e2f42;
 }
 
 .team-title-name {
