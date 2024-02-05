@@ -91,8 +91,6 @@ body {
     color: #434455;
 }
 
-/* -------------FOOTER--------------- */
-
 .footer {
     background-color: #2e2f42;
 }
@@ -107,45 +105,26 @@ body {
     letter-spacing: 0.02em;
 }
 
-.team-section {
-    background-color: #F4F4FD;
-}
-
-/* -------------TEAM--------------- */
-
-.team {}
-
 .team-title {
-    font-weight: 500;
+    font-weight: 700;
     font-size: 36px;
     line-height: 1.11;
-    text-align: center;
     letter-spacing: 0.02em;
     text-transform: capitalize;
-    color: var(--title-color);
+    color: var(--main-header-color);
 }
 
-.team-list {
-
-}
-
-.team-item {
-    
-}
-
-.team-item-title {
+.team-title-name {
     font-weight: 500;
     font-size: 20px;
     line-height: 1.2;
-    text-align: center;
     letter-spacing: 0.02em;
-    color: var(--title-color);
+    text-transform: capitalize;
+    color: var(--main-header-color);
 }
 
-.team-item-text {
+.team-text {
     font-size: 16px;
     line-height: 1.5;
-    text-align: center;
     letter-spacing: 0.02em;
-    color: var(--main-text-color);
 }
