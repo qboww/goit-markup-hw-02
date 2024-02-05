@@ -106,12 +106,12 @@ body {
 }
 
 .team-title {
-    font-weight: 700;
     font-size: 36px;
     line-height: 1.11;
     letter-spacing: 0.02em;
     text-transform: capitalize;
-    color: var(--main-header-color);
+    text-align: center;
+    color: #F4F4FD;
 }
 
 .team-title-name {
@@ -120,11 +120,15 @@ body {
     line-height: 1.2;
     letter-spacing: 0.02em;
     text-transform: capitalize;
-    color: var(--main-header-color);
+    color: #2e2f42;
 }
 
 .team-text {
     font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.02em;
+}
+
+.list-item{
+    background-color: #FFFFFF;
 }
